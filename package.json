@@ -80,5 +80,6 @@
     "eslint-plugin-react": "latest",
     "eslint-plugin-react-hooks": "latest",
     "eslint-plugin-testing-library": "latest"
-  }
+  },
+  "proxy": "http://localhost:5000"
 }
