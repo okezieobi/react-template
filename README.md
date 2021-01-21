@@ -8,7 +8,6 @@ React  template
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/08bea14d-d760-484f-906f-ce9ef235a287/deploy-status)](https://app.netlify.com/sites/my-custom-react-template/deploys)
 
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
